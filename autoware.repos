@@ -62,9 +62,9 @@ repositories:
     url: https://github.com/MapIV/llh_converter.git
     version: ros2
   # launcher
- launcher/autoware_launch.whill:
+ launcher/autoware_launch_whill:
    type: git
-   url: https://github.com/KJM-N/autoware_launch.whill.git
+   url: https://github.com/KJM-N/autoware_launch_whill.git
    version: main
   # sensor_component
   sensor_component/external/sensor_component_description:
